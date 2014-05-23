@@ -20,7 +20,7 @@ gulp.task('some-task', function() {
         .pipe(some())
         .pipe(tasks())
         .pipe(along())
-        .pipe(isBeautiful ? beautiful() : nop())
+        .pipe(minify ? minified() : nop())
         .pipe(pipeline())
         .pipe(gulp.dest('./build'));
 });
