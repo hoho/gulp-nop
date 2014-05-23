@@ -1,7 +1,7 @@
 {
     "name": "gulp-nop",
     "description": "No operation",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "homepage": "https://github.com/hoho/gulp-nop",
     "repository": "git://github.com/hoho/gulp-nop.git",
     "author": "Marat Abdullin <dakota@brokenpipe.ru>",
